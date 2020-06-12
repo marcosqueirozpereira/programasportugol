@@ -1,1 +1,2 @@
-# programasportugolstudio Programação, criação e exercs em Algotimos no Portugol Studio e
+# programasportugolstudio 
+Programação, exercicios e criações em Visualg e Portugol Studio
